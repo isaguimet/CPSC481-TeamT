@@ -1,8 +1,8 @@
 # CPSC 481 - Human Computer Interaction
 ## Welcome to Team T's Repository!
-### Stage One:
+### Stage Two:
 
-The documents created for this stage one are: Team Contract Handout and our 3 Project Ideas.
+The documents created for this stage two are: <Add this in>
 
 Here is the link to our portfolio: https://gbondad.github.io/481portfolio/index.html
 
