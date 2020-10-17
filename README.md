@@ -2,7 +2,8 @@
 
 ## Welcome to Team T's Repository!
 
-Please go to our stageOne branch to see our work for the first stage of the project! 
+Please go to our stageOne branch to see our work for the first stage of the project!
+Please go to our stageTwo branch to see our work for the second stage of the project! 
 
 ### Group Members:
 - Isabella Guimet
