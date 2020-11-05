@@ -5,7 +5,7 @@
 For this stage three we:
 - Described our updated project idea - a task / project management app
 - Brainstormed 16 different sketches for the ideation phase
-- Design an affinity diagram based on these sketches
+- Designed an affinity diagram based on these sketches
 - Illustrated a storyboard
 - Constructed a low-fidelity prototype with Balsamiq Cloud
 - Evaluated our tasks by executing a cognitive walkthrough on the tasks we prototyped vertically
