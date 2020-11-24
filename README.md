@@ -11,7 +11,7 @@ For this stage three we:
 - Evaluated our tasks by executing a cognitive walkthrough on the tasks we prototyped vertically
 - Prepared a project demo, project presentation and report
 
-Our document containing detailed information about these deliverables are uploaded in this stageThree branch.
+Our documents containing detailed information about these deliverables are uploaded in this stageThree branch.
 
 Here is the link to our portfolio: https://gbondad.github.io/481portfolio/index.html
 
