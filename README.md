@@ -8,7 +8,7 @@ For this stage two we:
 - Reflected on our use of research methods
 - Brainstormed 6 user tasks each with a small description
 
-Our document containing detailed information about these deliverables are uploaded in this stageTwo branch.
+Our documents containing detailed information about these deliverables are uploaded in this stageTwo branch.
 
 Here is the link to our portfolio: https://gbondad.github.io/481portfolio/index.html
 
