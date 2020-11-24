@@ -9,7 +9,7 @@ For this stage four we:
 - Iterated on our high-fidelity prototype to improve usability based on the evaluation performed
 - Prepared a project demo, project presentation and report
 
-Our document containing detailed information about these deliverables are uploaded in this stageFour branch.
+Our report containing detailed information about these deliverables are uploaded in this stageFour branch.
 
 Here is the link to our portfolio: https://gbondad.github.io/481portfolio/index.html
 
