@@ -15,7 +15,7 @@ Progress calendar is essentially a calendar application with project management 
 - Users can achieve various kinds of rewards for completing tasks and projects 
 - Users can connect with friends and a leaderboard will be displayed to show how the user compares in their reward achievements to their friends
 
-For detailed information about what we did for each stage of the project, please head to the our branches where we split up the work into each branch (stageOne, stageTwo, stageThree, stageFour, and stageFive).
+For detailed information about what we did for each stage of the project, please head to our repository branches where we split up the work into each branch (stageOne, stageTwo, stageThree, stageFour, and stageFive).
 
 ### Group Members:
 - Isabella Guimet
