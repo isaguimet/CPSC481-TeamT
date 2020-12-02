@@ -17,6 +17,8 @@ Progress calendar is essentially a calendar application with project management 
 
 For detailed information about what we did for each stage of the project, please head to our repository branches where we split up the work into each branch (stageOne, stageTwo, stageThree, stageFour, and stageFive).
 
+Our team portfolio can be accessed here: https://gbondad.github.io/481portfolio/index.html
+
 ### Group Members:
 - Isabella Guimet
 - Alexis Lee
