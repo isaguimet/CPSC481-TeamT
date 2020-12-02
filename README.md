@@ -2,12 +2,13 @@
 ## Welcome to Team T's Repository!
 ### Stage Five:
 
-For this stage five we will:
-- Refine our high-fidelity prototoype using Adobe XD
-- Prepare a demo of our final Hi-Fi Prototype demo
-- Prepare our final User Centered Design report
+For this stage five:
+- Added two more additional tasks
+- Refined our high-fidelity prototoype using Adobe XD
+- Prepared a demo of our final High Fidelity Prototype
+- Prepared our final User Centered Design report
 
-We will upload these documents into this stageFive branch as we finish our deliverables.
+This stageFive branch contains our report. Our portfolio contains the report as well as the demo.
 
 Here is the link to our portfolio: https://gbondad.github.io/481portfolio/index.html
 
